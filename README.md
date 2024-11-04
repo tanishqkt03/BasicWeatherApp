@@ -1,4 +1,5 @@
 # BasicWeatherApp
+https://tanishqkt03.github.io/BasicWeatherApp/
 Vanilla HTML, CSS, JS Weather Card.
 A simple weather application that allows users to search for weather information by city. The app fetches real-time data from the OpenWeather API and displays temperature, humidity, and wind speed.
 
